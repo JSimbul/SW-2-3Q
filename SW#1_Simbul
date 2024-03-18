@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+            <center><h1>Top 5 Favorite character Winnie the pooh</h1></center>
+
+            <style>
+            .center {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 50%;
+            </style>
+
+              <div class="container mt-3">
+              <table class="table table-bordered">
+            <thead>
+            <tbody>
+                  <tr>
+                  <tr class="table-info">
+                <th><img src="https://i.pinimg.com/564x/1e/8f/12/1e8f1213f377149987cc587ce29f6efa.jpg"></th>
+                <td>Winnie the Pooh is clumsy and slow, yet sage. Pooh readily acknowledges that he lacks intelligence and dislikes complex vocabulary. However, he is really sensible, and most of the time, his counsel is good..</td>
+              </tr>
+            </tr>
+              <tr>
+                  <tr class="table-info">
+                <td><img src="https://i.pinimg.com/736x/30/0e/6a/300e6a07cb9f7a9939b42a93db22f4e7.jpg"></td>
+                <td>Piglet appeared in A.A. for the first time. Winnie the Pooh by Charles Dickens, first published in 1926. That makes him older than Mickey Mouse, just like his companion Pooh. Strangely enough, however, Piglet was absent from Winnie the Pooh and The Honey Tree, the original Disney Pooh featurette. </td>
+
+
+</tr>
+            </tr>
+               <tr>
+                   <tr class="table-info">
+                   	<td><img src ="https://i.pinimg.com/564x/e2/4b/d9/e24bd99752c1f77bde740f178d87f887.jpg"></td>
+                <td>Owl is the owl. However, the phonetic spelling of the sound a donkey makes is how the fictional character Eeyore gets his name. Anthropomorphized animals are a common theme in children's literature, even though the genre doesn't have many depressing characters.</td>
+              </tr>
+            
+              
+                
+              </tr>
+            </tr>
+               <tr>
+                   <tr class="table-info">
+                <td><img src="https://i.pinimg.com/564x/36/3a/c8/363ac85796c72feb509556bec09d36d2.jpg"></td>
+                <td> Milne wrote a fictional bear named Winnie the Pooh. Milne was inspired by a real-life teddy bear that Christopher Robin, Milne's son, owned. In the Winnie the Pooh stories, Christopher Robin makes an appearance as Pooh's human companion and the other characters in Hundred Acre Wood  </td>
+              </tr>
+            </tr>
+        </tbody>
+    </thead>
+    </table>
+    </div>
+</body>
+</head>
+</html>
